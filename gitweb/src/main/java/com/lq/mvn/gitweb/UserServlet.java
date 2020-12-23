@@ -19,10 +19,6 @@ public class UserServlet extends HttpServlet {
         response.setContentType("text/html");
 
         // Hello9
-        // Hello9
-        // Hello9
-        // Hello9
-        // Hello1
         // Hello2
         // Hello3
         // Hello4
